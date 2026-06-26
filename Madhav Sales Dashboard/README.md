@@ -1,6 +1,6 @@
-# PowerBi_dashboard_project
-This is a power bi end to end project
+### Madhav_Sales_Dashboard
+Madhav Sales Dashboard using Power BI
 
-## Watch complete Power BI tutorial video here: https://www.youtube.com/watch?v=6cV3OwFrOkk
+------------------------------------------------------------------------------------------------------------------------------------------
 
-Hope you like this video! :)
+These resources are perfect for both beginners and advanced learners.
