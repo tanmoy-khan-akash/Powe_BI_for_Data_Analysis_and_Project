@@ -1,5 +1,5 @@
 ### Madhav_Sales_Dashboard
-Madhav Sales Dashboard using Power BI
+Madhav Sales Analysis and Power BI Dashboard
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
