@@ -1,5 +1,5 @@
 <div align="center">
-	<h1><a>The Data Scientists Toolbox</a></h1>
+	<h1><a>Powe BI for Data Analysis and Project</a></h1>
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------------------------
